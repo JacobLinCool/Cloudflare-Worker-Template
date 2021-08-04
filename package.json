@@ -11,10 +11,11 @@
         "publish": "wrangler publish"
     },
     "dependencies": {
-        "webpack": "^5.37.1",
-        "webpack-cli": "^4.7.0"
+        "itty-router": "^2.3.10"
     },
     "devDependencies": {
-        "@cloudflare/wrangler": "^1.17.0"
+        "@cloudflare/wrangler": "^1.19.0",
+        "webpack": "^5.37.1",
+        "webpack-cli": "^4.7.0"
     }
 }
